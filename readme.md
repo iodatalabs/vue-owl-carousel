@@ -20,7 +20,9 @@
 
 
 
-`npm i -s vue-owl-carousel` or `yarn add vue-owl-carousel`
+```bash
+npm i github:iodatalabs/vue-owl-carousel#2.0.4
+```
 
 ## Usage
 
